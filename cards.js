@@ -100,8 +100,8 @@ export const cards = [
   { category: "Arcanes de l’Intérieur / Psyché", name: "JOIE", description: "légèreté, inspiration, énergie vitale", keywords: ["légèreté","inspiration","énergie vitale"], image: "/joie.png" },
   { category: "Arcanes de l’Intérieur / Psyché", name: "INTUITION", description: "guidance intérieure, clairvoyance, connexion au subtil", keywords: ["guidance","clairvoyance","connexion"], image: "/intuition.png" },
   { category: "Arcanes de l’Intérieur / Psyché", name: "MEMOIRE", description: "apprentissage du passé, connaissance intérieure, héritage", keywords: ["passé","connaissance","héritage"], image: "/memoire.png" },
-  { category: "Arcanes de l’Intérieur / Psyché", name: "ÉMOTION PROFONDE", description: "sensibilité, expression des sentiments, richesse intérieure", keywords: ["sensibilité","expression","richesse intérieure"], image: "/emotion-profonde.png" },
-  { category: "Arcanes de l’Intérieur / Psyché", name: "OMBRE INCONSCIENTE", description: "intégration de soi, conscience des patterns, alchimie intérieure", keywords: ["intégration","conscience","alchimie"], image: "/ombre-inconsciente.png" },
+  { category: "Arcanes de l’Intérieur / Psyché", name: "ÉMOTION PROFONDE", description: "sensibilité, expression des sentiments, richesse intérieure", keywords: ["sensibilité","expression","richesse intérieure"], image: "/emotion.png" },
+  { category: "Arcanes de l’Intérieur / Psyché", name: "OMBRE INCONSCIENTE", description: "intégration de soi, conscience des patterns, alchimie intérieure", keywords: ["intégration","conscience","alchimie"], image: "/ombre_inconsciente.png" },
 
 // --- ARCANES DE LA DESTINÉE / CYCLES ---
 
