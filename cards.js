@@ -132,9 +132,9 @@ export const cards = [
 
 // --- ARCANES TEMPORAUX ---
 
-  { category: "Arcanes Temporels", name: "INSTANT PRÉSENT", description: "pleine conscience, alignement immédiat, lucidité", keywords: ["pleine conscience","alignement","lucidité"], image: "/instant-present.png" },
-  { category: "Arcanes Temporels", name: "COURT TERME", description: "actions à venir, vigilance, choix récents", keywords: ["actions","vigilance","choix"], image: "/court-terme.png" },
-  { category: "Arcanes Temporels", name: "LONG TERME", description: "vision d’ensemble, projets durables, patience", keywords: ["vision","projets","patience"], image: "/long-terme.png" },
-  { category: "Arcanes Temporels", name: "PHASE DE LUNE", description: "cycles émotionnels, intuitions, timing spirituel", keywords: ["cycles","intuitions","timing"], image: "/phase-lune.png" },
-  { category: "Arcanes Temporels", name: "CYCLE ANNUEL", description: "saisons de vie, rythme naturel, progression", keywords: ["saisons","rythme","progression"], image: "/cycle-annuel.png" }
+  { category: "Arcanes Temporels", name: "INSTANT PRÉSENT", description: "pleine conscience, alignement immédiat, lucidité", keywords: ["pleine conscience","alignement","lucidité"], image: "/instant.png" },
+  { category: "Arcanes Temporels", name: "COURT TERME", description: "actions à venir, vigilance, choix récents", keywords: ["actions","vigilance","choix"], image: "/court.png" },
+  { category: "Arcanes Temporels", name: "LONG TERME", description: "vision d’ensemble, projets durables, patience", keywords: ["vision","projets","patience"], image: "/long.png" },
+  { category: "Arcanes Temporels", name: "PHASE DE LUNE", description: "cycles émotionnels, intuitions, timing spirituel", keywords: ["cycles","intuitions","timing"], image: "/phase.png" },
+  { category: "Arcanes Temporels", name: "CYCLE ANNUEL", description: "saisons de vie, rythme naturel, progression", keywords: ["saisons","rythme","progression"], image: "/cycle.png" }
 ]
